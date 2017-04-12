@@ -1,0 +1,7 @@
+D:\Прога\ООТПиСП\Lab3\Point\Point\obj\Debug\Point.csprojResolveAssemblyReference.cache
+D:\Прога\ООТПиСП\Lab3\Point\Point\bin\Debug\Point.dll
+D:\Прога\ООТПиСП\Lab3\Point\Point\bin\Debug\Point.pdb
+D:\Прога\ООТПиСП\Lab3\Point\Point\bin\Debug\BaseShape.dll
+D:\Прога\ООТПиСП\Lab3\Point\Point\bin\Debug\BaseShape.pdb
+D:\Прога\ООТПиСП\Lab3\Point\Point\obj\Debug\Point.dll
+D:\Прога\ООТПиСП\Lab3\Point\Point\obj\Debug\Point.pdb

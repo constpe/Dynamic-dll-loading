@@ -1,0 +1,15 @@
+D:\Прога\ООТПиСП\Lab3\Square\Square\obj\Debug\Square.csprojResolveAssemblyReference.cache
+D:\Прога\ООТПиСП\Lab3\Square\Square\bin\Debug\Square.dll
+D:\Прога\ООТПиСП\Lab3\Square\Square\bin\Debug\Square.pdb
+D:\Прога\ООТПиСП\Lab3\Square\Square\bin\Debug\BaseShape.dll
+D:\Прога\ООТПиСП\Lab3\Square\Square\bin\Debug\Polygon.dll
+D:\Прога\ООТПиСП\Lab3\Square\Square\bin\Debug\Rectangle.dll
+D:\Прога\ООТПиСП\Lab3\Square\Square\bin\Debug\ShapesList.dll
+D:\Прога\ООТПиСП\Lab3\Square\Square\bin\Debug\Line.dll
+D:\Прога\ООТПиСП\Lab3\Square\Square\bin\Debug\BaseShape.pdb
+D:\Прога\ООТПиСП\Lab3\Square\Square\bin\Debug\Polygon.pdb
+D:\Прога\ООТПиСП\Lab3\Square\Square\bin\Debug\Rectangle.pdb
+D:\Прога\ООТПиСП\Lab3\Square\Square\bin\Debug\ShapesList.pdb
+D:\Прога\ООТПиСП\Lab3\Square\Square\bin\Debug\Line.pdb
+D:\Прога\ООТПиСП\Lab3\Square\Square\obj\Debug\Square.dll
+D:\Прога\ООТПиСП\Lab3\Square\Square\obj\Debug\Square.pdb

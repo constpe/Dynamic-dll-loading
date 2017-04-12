@@ -1,0 +1,11 @@
+D:\Прога\ООТПиСП\Lab3\Polygon\Polygon\obj\Debug\Polygon.csprojResolveAssemblyReference.cache
+D:\Прога\ООТПиСП\Lab3\Polygon\Polygon\bin\Debug\Polygon.dll
+D:\Прога\ООТПиСП\Lab3\Polygon\Polygon\bin\Debug\Polygon.pdb
+D:\Прога\ООТПиСП\Lab3\Polygon\Polygon\bin\Debug\BaseShape.dll
+D:\Прога\ООТПиСП\Lab3\Polygon\Polygon\bin\Debug\BaseShape.pdb
+D:\Прога\ООТПиСП\Lab3\Polygon\Polygon\obj\Debug\Polygon.dll
+D:\Прога\ООТПиСП\Lab3\Polygon\Polygon\obj\Debug\Polygon.pdb
+D:\Прога\ООТПиСП\Lab3\Polygon\Polygon\bin\Debug\Line.dll
+D:\Прога\ООТПиСП\Lab3\Polygon\Polygon\bin\Debug\ShapesList.dll
+D:\Прога\ООТПиСП\Lab3\Polygon\Polygon\bin\Debug\Line.pdb
+D:\Прога\ООТПиСП\Lab3\Polygon\Polygon\bin\Debug\ShapesList.pdb

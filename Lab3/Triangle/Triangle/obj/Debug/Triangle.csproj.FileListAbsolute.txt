@@ -1,0 +1,13 @@
+D:\Прога\ООТПиСП\Lab3\Triangle\Triangle\obj\Debug\Triangle.csprojResolveAssemblyReference.cache
+D:\Прога\ООТПиСП\Lab3\Triangle\Triangle\bin\Debug\Triangle.dll
+D:\Прога\ООТПиСП\Lab3\Triangle\Triangle\bin\Debug\Triangle.pdb
+D:\Прога\ООТПиСП\Lab3\Triangle\Triangle\bin\Debug\BaseShape.dll
+D:\Прога\ООТПиСП\Lab3\Triangle\Triangle\bin\Debug\Line.dll
+D:\Прога\ООТПиСП\Lab3\Triangle\Triangle\bin\Debug\Polygon.dll
+D:\Прога\ООТПиСП\Lab3\Triangle\Triangle\bin\Debug\ShapesList.dll
+D:\Прога\ООТПиСП\Lab3\Triangle\Triangle\bin\Debug\BaseShape.pdb
+D:\Прога\ООТПиСП\Lab3\Triangle\Triangle\bin\Debug\Line.pdb
+D:\Прога\ООТПиСП\Lab3\Triangle\Triangle\bin\Debug\Polygon.pdb
+D:\Прога\ООТПиСП\Lab3\Triangle\Triangle\bin\Debug\ShapesList.pdb
+D:\Прога\ООТПиСП\Lab3\Triangle\Triangle\obj\Debug\Triangle.dll
+D:\Прога\ООТПиСП\Lab3\Triangle\Triangle\obj\Debug\Triangle.pdb

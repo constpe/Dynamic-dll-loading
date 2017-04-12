@@ -1,0 +1,13 @@
+D:\Прога\ООТПиСП\Lab3\Rectangle\Rectangle\bin\Debug\Rectangle.dll
+D:\Прога\ООТПиСП\Lab3\Rectangle\Rectangle\bin\Debug\Rectangle.pdb
+D:\Прога\ООТПиСП\Lab3\Rectangle\Rectangle\bin\Debug\BaseShape.dll
+D:\Прога\ООТПиСП\Lab3\Rectangle\Rectangle\bin\Debug\Polygon.dll
+D:\Прога\ООТПиСП\Lab3\Rectangle\Rectangle\bin\Debug\ShapesList.dll
+D:\Прога\ООТПиСП\Lab3\Rectangle\Rectangle\bin\Debug\Line.dll
+D:\Прога\ООТПиСП\Lab3\Rectangle\Rectangle\bin\Debug\BaseShape.pdb
+D:\Прога\ООТПиСП\Lab3\Rectangle\Rectangle\bin\Debug\Polygon.pdb
+D:\Прога\ООТПиСП\Lab3\Rectangle\Rectangle\bin\Debug\ShapesList.pdb
+D:\Прога\ООТПиСП\Lab3\Rectangle\Rectangle\bin\Debug\Line.pdb
+D:\Прога\ООТПиСП\Lab3\Rectangle\Rectangle\obj\Debug\Rectangle.csprojResolveAssemblyReference.cache
+D:\Прога\ООТПиСП\Lab3\Rectangle\Rectangle\obj\Debug\Rectangle.dll
+D:\Прога\ООТПиСП\Lab3\Rectangle\Rectangle\obj\Debug\Rectangle.pdb

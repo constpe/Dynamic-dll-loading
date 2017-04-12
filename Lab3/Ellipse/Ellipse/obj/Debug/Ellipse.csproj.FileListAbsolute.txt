@@ -1,0 +1,9 @@
+D:\Прога\ООТПиСП\Lab3\Ellipse\Ellipse\obj\Debug\Ellipse.csprojResolveAssemblyReference.cache
+D:\Прога\ООТПиСП\Lab3\Ellipse\Ellipse\bin\Debug\Ellipse.dll
+D:\Прога\ООТПиСП\Lab3\Ellipse\Ellipse\bin\Debug\Ellipse.pdb
+D:\Прога\ООТПиСП\Lab3\Ellipse\Ellipse\bin\Debug\BaseShape.dll
+D:\Прога\ООТПиСП\Lab3\Ellipse\Ellipse\bin\Debug\ShapesList.dll
+D:\Прога\ООТПиСП\Lab3\Ellipse\Ellipse\bin\Debug\BaseShape.pdb
+D:\Прога\ООТПиСП\Lab3\Ellipse\Ellipse\bin\Debug\ShapesList.pdb
+D:\Прога\ООТПиСП\Lab3\Ellipse\Ellipse\obj\Debug\Ellipse.dll
+D:\Прога\ООТПиСП\Lab3\Ellipse\Ellipse\obj\Debug\Ellipse.pdb

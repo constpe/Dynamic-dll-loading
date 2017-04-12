@@ -1,0 +1,9 @@
+D:\Прога\ООТПиСП\Lab3\Line\Line\obj\Debug\Line.csprojResolveAssemblyReference.cache
+D:\Прога\ООТПиСП\Lab3\Line\Line\bin\Debug\Line.dll
+D:\Прога\ООТПиСП\Lab3\Line\Line\bin\Debug\Line.pdb
+D:\Прога\ООТПиСП\Lab3\Line\Line\bin\Debug\BaseShape.dll
+D:\Прога\ООТПиСП\Lab3\Line\Line\bin\Debug\ShapesList.dll
+D:\Прога\ООТПиСП\Lab3\Line\Line\bin\Debug\BaseShape.pdb
+D:\Прога\ООТПиСП\Lab3\Line\Line\bin\Debug\ShapesList.pdb
+D:\Прога\ООТПиСП\Lab3\Line\Line\obj\Debug\Line.dll
+D:\Прога\ООТПиСП\Lab3\Line\Line\obj\Debug\Line.pdb
